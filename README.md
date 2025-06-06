@@ -49,11 +49,11 @@ The chatbot is trained on medical dialogue data sourced from Kaggle:
 
 ### LoRA Training
 
-<img src="https://drive.google.com/file/d/1VuGzJyZH4aXWIpb2uDQi_UhsUy7G_G8i/view?usp=sharing" alt="LoRA Training Curves" width="600"/>
+<img src="images/lora_training_curve.png" alt="LoRA Training Curves" width="600"/>
 
 ### QLoRA Training
 
-<img src="https://drive.google.com/file/d/1-nvm4ejtYFhBCtobKvKP6mJ6wnKEZhFF/view?usp=sharing" alt="QLoRA Training Curves" width="600"/>
+<img src="images/qlora_training_curve.png" alt="QLoRA Training Curves" width="600"/>
 
 ---
 
