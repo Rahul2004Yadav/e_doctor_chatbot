@@ -88,5 +88,14 @@ The chatbot is trained on medical dialogue data sourced from Kaggle:
 - Both methods provide efficient fine-tuning compared to full model training.
 
 ---
+---
+
+## 👩‍💻👨‍💻 **Project Contributors**
+
+- 🎓 **Radhika Dahiya** &nbsp; | &nbsp; *IIT Guwahati*
+- 🎓 **Surya Kamesh Mantha** &nbsp; | &nbsp; *IIT Roorkee*
+- 🎓 **Rahul Yadav** &nbsp; | &nbsp; *IIT Roorkee*
+
+---
 
 
